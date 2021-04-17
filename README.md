@@ -4,7 +4,7 @@
 - 👀 I’m interested in all things Cloud automation, predominately from a Governance and compliance perspective
 - 🌱 I’m currently working with policy-as-code and learning Flutter/Dart.
 
-Find out more about me here: https://www.linkedin.com/in/lewissheridan/
+If you wish to contact me, you can reach me via LinkedIn: https://www.linkedin.com/in/lewissheridan/
 
 <!---
 lewissheridan/lewissheridan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
