@@ -1,8 +1,8 @@
 # About me
 
 - 👋 Hi, I’m @lewissheridan
-- 👀 I’m interested in all things Cloud automation, predominately from a Governance and compliance perspective
-- 🌱 I’m currently working with policy-as-code and learning Flutter/Dart.
+- 👀 I’m a certified Azure and GCP solution architect and a technical lead for developing multi-cloud governance capabilities
+- 🌱 This is my repo of Powershell and Go code
 
 If you wish to contact me, you can reach me via LinkedIn: https://www.linkedin.com/in/lewissheridan/
 
